@@ -1,0 +1,14 @@
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.AssemblyInfoInputs.cache
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.AssemblyInfo.cs
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.csproj.CoreCompileInputs.cache
+d:\C#\Lab01\Lab01_BTCB_Bai3\bin\Debug\net10.0\Lab01_BTCB_Bai3.exe
+d:\C#\Lab01\Lab01_BTCB_Bai3\bin\Debug\net10.0\Lab01_BTCB_Bai3.deps.json
+d:\C#\Lab01\Lab01_BTCB_Bai3\bin\Debug\net10.0\Lab01_BTCB_Bai3.runtimeconfig.json
+d:\C#\Lab01\Lab01_BTCB_Bai3\bin\Debug\net10.0\Lab01_BTCB_Bai3.dll
+d:\C#\Lab01\Lab01_BTCB_Bai3\bin\Debug\net10.0\Lab01_BTCB_Bai3.pdb
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.dll
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\refint\Lab01_BTCB_Bai3.dll
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.pdb
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\Lab01_BTCB_Bai3.genruntimeconfig.cache
+d:\C#\Lab01\Lab01_BTCB_Bai3\obj\Debug\net10.0\ref\Lab01_BTCB_Bai3.dll

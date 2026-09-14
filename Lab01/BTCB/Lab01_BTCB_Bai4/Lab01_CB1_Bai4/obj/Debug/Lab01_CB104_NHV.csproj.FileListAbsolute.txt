@@ -1,0 +1,7 @@
+C:\Users\AD\source\repos\Lab01NHV\bin\Debug\Lab01NHV.exe.config
+C:\Users\AD\source\repos\Lab01NHV\bin\Debug\Lab01NHV.exe
+C:\Users\AD\source\repos\Lab01NHV\bin\Debug\Lab01NHV.pdb
+C:\Users\AD\source\repos\Lab01NHV\obj\Debug\Lab01_CB104_NHV.csproj.AssemblyReference.cache
+C:\Users\AD\source\repos\Lab01NHV\obj\Debug\Lab01_CB104_NHV.csproj.CoreCompileInputs.cache
+C:\Users\AD\source\repos\Lab01NHV\obj\Debug\Lab01NHV.exe
+C:\Users\AD\source\repos\Lab01NHV\obj\Debug\Lab01NHV.pdb

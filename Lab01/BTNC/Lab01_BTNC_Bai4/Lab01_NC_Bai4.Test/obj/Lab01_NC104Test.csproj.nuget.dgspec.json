@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\AD\\source\\repos\\Lab01_NC104Test\\Lab01_NC104Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\AD\\source\\repos\\Lab01_NC104Test\\Lab01_NC104Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD\\source\\repos\\Lab01_NC104Test\\Lab01_NC104Test.csproj",
+        "projectName": "Lab01_NC104Test",
+        "projectPath": "C:\\Users\\AD\\source\\repos\\Lab01_NC104Test\\Lab01_NC104Test.csproj",
+        "packagesPath": "C:\\Users\\AD\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\AD\\source\\repos\\Lab01_NC104Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AD\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "targetAlias": "net48",
+            "projectReferences": {
+              "C:\\Users\\AD\\source\\repos\\Lab01_NC104_NHV\\Lab01_NC104_NHV.csproj": {
+                "projectPath": "C:\\Users\\AD\\source\\repos\\Lab01_NC104_NHV\\Lab01_NC104_NHV.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48",
+          "targetAlias": "net48",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\AD\\source\\repos\\Lab01_NC104_NHV\\Lab01_NC104_NHV.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AD\\source\\repos\\Lab01_NC104_NHV\\Lab01_NC104_NHV.csproj",
+        "projectName": "Lab01_NC104_NHV",
+        "projectPath": "C:\\Users\\AD\\source\\repos\\Lab01_NC104_NHV\\Lab01_NC104_NHV.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "framework": "net48",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "framework": "net48"
+        }
+      }
+    }
+  }
+}
