@@ -1,0 +1,14 @@
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\bin\Debug\net10.0\Lab03_TH3_Bai61.exe
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\bin\Debug\net10.0\Lab03_TH3_Bai61.deps.json
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\bin\Debug\net10.0\Lab03_TH3_Bai61.runtimeconfig.json
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\bin\Debug\net10.0\Lab03_TH3_Bai61.dll
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\bin\Debug\net10.0\Lab03_TH3_Bai61.pdb
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.AssemblyInfoInputs.cache
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.AssemblyInfo.cs
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.csproj.CoreCompileInputs.cache
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.dll
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\refint\Lab03_TH3_Bai61.dll
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.pdb
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\Lab03_TH3_Bai61.genruntimeconfig.cache
+D:\Lab03_TH3_Bai61\Lab03_TH3_Bai61\obj\Debug\net10.0\ref\Lab03_TH3_Bai61.dll

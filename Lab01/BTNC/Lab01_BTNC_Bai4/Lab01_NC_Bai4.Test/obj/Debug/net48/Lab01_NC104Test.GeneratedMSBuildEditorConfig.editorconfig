@@ -1,0 +1,9 @@
+is_global = true
+build_property.IsMSTestTestAdapterReferenced = true
+build_property.RootNamespace = Lab01_NC104Test
+build_property.ProjectDir = C:\Users\nguye\Downloads\C#\Lab01\BTNC\Lab01_BTNC_Bai4\Lab01_NC_Bai4.Test\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 
